@@ -1,0 +1,25 @@
+Vamos crear unha aplicación web onde os usuarios poidan escribir opinións e
+    dar unha puntuación a libros, películas ou videoxogos. 
+
+A aplicación ten que implementar as seguintes funcionalidades:
+
+    Páxina pública onde todos os visitantes poidan ver un listado de libros,
+        películas ou videoxogos e valoración media para cada un.
+
+    Unha segunda páxina onde para cada elemento se mostre
+        o título e un listado de valoracións e opinións dos usuario da páxina web.
+        Tamén se mostrará a valoración media de cada elemento.
+
+    Un formulario de login que permita a un visitante introducir
+        o seu nome de usuario e un contrasinal para 
+        si son correctos acceder a parte privada da páxina.
+
+Na parte privada da páxina un usuario pode seleccionar
+ o tipo de elemento a introducir( libro, película ou videoxogo),
+  o nome do elemento, a súa opinión para el e valoración que lle da. 
+
+Utiza clases para manexar os distintos datos da web e para
+ almacenar a información utiliza arquivos.
+
+A interfáz da aplicación web ten que ser amigable para o usuario,
+ ter un deseño atractivo e ser usable.
